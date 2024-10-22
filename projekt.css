@@ -2,4 +2,6 @@
   font-family: "Playwrite GB S", cursive;
   font-weight: weight;
   font-style: normal;
+  position: relative;
+  left: 25%;
 }
